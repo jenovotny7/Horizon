@@ -17,4 +17,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 Github Link - https://github.com/jenovotny7/Horizon
+
+
+
 Website- https://jenovotny7.github.io/Horizon/
