@@ -21,3 +21,8 @@ Github Link - https://github.com/jenovotny7/Horizon
 
 
 Website- https://jenovotny7.github.io/Horizon/
+
+
+
+https://jenovotny7.github.io/Horizon/assets/images/search-engine-optimization.jpg 
+
